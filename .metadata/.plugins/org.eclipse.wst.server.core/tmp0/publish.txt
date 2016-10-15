@@ -1,0 +1,3 @@
+#GlassFish 3
+#Fri Oct 14 14:23:44 CEST 2016
+org.eclipse.jst.jee.server\:HelloEJBs=/home/poulmanogo/appServ/glassfish4/glassfish/domains/domain1/eclipseApps/HelloEJBs
